@@ -1,13 +1,12 @@
-# 💫 Who am I?:
-🎮 I am **Nil San Gabriel** (**HuuuWasabe**)<br>📚 Specilizing in Data Science w/ Machine Learning and Deep Learning<br>🖥️ Creating Software here and there
+#### A developer for fun! Err... Sometimes.
 
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](http://linkedin.com/in/nil-san-gabriel-119a6926b)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](nilgabriel365@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://HuuuWasabe.github.io)
 
-# 💻 Tech Stack:
+# Tech Stack:
 **Programming Langauges:**
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
@@ -40,7 +39,7 @@
 **Version Control:**
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HuuuWasabe&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HuuuWasabe&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HuuuWasabe&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
