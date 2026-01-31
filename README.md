@@ -1,4 +1,4 @@
-## A developer for fun! Err... Sometimes.
+## A Developer for fun! Err... Sometimes.
 
 ## Socials:
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](http://linkedin.com/in/nil-san-gabriel-119a6926b)
