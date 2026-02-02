@@ -38,7 +38,7 @@
 **Version Control:**
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 
-# GitHub Stats:
+#GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HuuuWasabe&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HuuuWasabe&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HuuuWasabe&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
